@@ -1,3 +1,3 @@
 # info
 info
-![global](https://img/githubuserscontent.com/global.png)
+![global](img/global.png)
