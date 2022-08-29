@@ -1,3 +1,3 @@
 # info
 info
-![global](img/global.png)
+![global](https://ggagent.github.io/info/img/global.png)
